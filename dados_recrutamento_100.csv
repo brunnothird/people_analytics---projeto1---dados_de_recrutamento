@@ -1,0 +1,101 @@
+ID,Departamento,Fonte,Entrevista_Nota,Status,Tempo_Dias
+1,Vendas,Site da Empresa,9.6,Contratado,11
+2,TI,Indicação,7.0,Reprovado,32
+3,Financeiro,LinkedIn,5.5,Contratado,40
+4,TI,Job Board,6.8,Reprovado,35
+5,TI,Indicação,5.9,Reprovado,9
+6,TI,LinkedIn,8.9,Contratado,36
+7,Marketing,LinkedIn,5.3,Contratado,20
+8,TI,Indicação,7.0,Reprovado,35
+9,Financeiro,Site da Empresa,9.8,Reprovado,36
+10,Vendas,Site da Empresa,8.0,Reprovado,7
+11,Marketing,Indicação,7.8,Reprovado,29
+12,Marketing,Indicação,8.2,Contratado,35
+13,Vendas,Indicação,5.6,Reprovado,24
+14,RH,Indicação,8.1,Contratado,36
+15,Vendas,Job Board,5.6,Contratado,25
+16,Financeiro,Job Board,9.8,Contratado,11
+17,TI,Job Board,7.4,Reprovado,40
+18,Marketing,Indicação,6.7,Reprovado,43
+19,Financeiro,Job Board,8.8,Reprovado,20
+20,Marketing,Site da Empresa,7.6,Reprovado,11
+21,Vendas,LinkedIn,5.0,Contratado,39
+22,Marketing,Site da Empresa,7.5,Contratado,21
+23,Financeiro,Site da Empresa,7.2,Contratado,4
+24,RH,Site da Empresa,8.9,Contratado,3
+25,Marketing,Indicação,7.4,Reprovado,38
+26,TI,Job Board,5.8,Contratado,27
+27,Financeiro,Site da Empresa,7.8,Reprovado,9
+28,Vendas,LinkedIn,5.3,Reprovado,16
+29,Vendas,LinkedIn,8.9,Contratado,35
+30,TI,Site da Empresa,7.8,Contratado,31
+31,RH,LinkedIn,7.2,Contratado,20
+32,Financeiro,Job Board,8.5,Contratado,40
+33,Financeiro,LinkedIn,5.9,Contratado,38
+34,RH,Site da Empresa,5.0,Reprovado,6
+35,Financeiro,Job Board,5.6,Reprovado,40
+36,Vendas,Job Board,9.5,Reprovado,30
+37,RH,Indicação,8.4,Reprovado,11
+38,RH,Site da Empresa,6.9,Contratado,6
+39,TI,Site da Empresa,6.0,Contratado,22
+40,Financeiro,Indicação,8.6,Reprovado,35
+41,RH,LinkedIn,9.7,Contratado,19
+42,Vendas,LinkedIn,7.2,Contratado,12
+43,Marketing,LinkedIn,9.3,Reprovado,43
+44,Vendas,LinkedIn,8.1,Contratado,19
+45,Financeiro,LinkedIn,7.3,Reprovado,4
+46,Financeiro,Indicação,9.9,Contratado,37
+47,TI,LinkedIn,5.6,Reprovado,39
+48,TI,Indicação,9.9,Reprovado,45
+49,TI,Job Board,8.4,Reprovado,38
+50,RH,Indicação,5.6,Contratado,40
+51,Financeiro,LinkedIn,9.2,Contratado,39
+52,TI,Site da Empresa,5.9,Reprovado,42
+53,Financeiro,LinkedIn,6.0,Reprovado,14
+54,RH,Job Board,8.8,Contratado,13
+55,Marketing,Job Board,6.3,Reprovado,30
+56,Financeiro,Indicação,9.4,Reprovado,7
+57,Vendas,Site da Empresa,7.1,Contratado,22
+58,TI,LinkedIn,5.6,Contratado,24
+59,Vendas,LinkedIn,7.9,Contratado,18
+60,Financeiro,Indicação,6.2,Contratado,5
+61,Vendas,Job Board,6.0,Contratado,3
+62,RH,Indicação,9.1,Reprovado,14
+63,RH,Site da Empresa,8.1,Contratado,10
+64,TI,Job Board,7.1,Reprovado,6
+65,Marketing,Site da Empresa,8.9,Contratado,12
+66,TI,Indicação,5.9,Contratado,28
+67,RH,Indicação,7.2,Contratado,29
+68,Financeiro,LinkedIn,8.5,Contratado,21
+69,Marketing,Indicação,5.6,Reprovado,9
+70,Marketing,Site da Empresa,6.9,Reprovado,8
+71,RH,Indicação,6.5,Contratado,28
+72,TI,LinkedIn,9.3,Reprovado,8
+73,RH,LinkedIn,9.4,Contratado,33
+74,Marketing,Site da Empresa,5.3,Contratado,43
+75,TI,Indicação,5.8,Reprovado,18
+76,Marketing,LinkedIn,8.1,Contratado,20
+77,TI,Indicação,5.4,Contratado,36
+78,Marketing,Job Board,7.0,Reprovado,38
+79,Financeiro,Site da Empresa,6.4,Reprovado,31
+80,Marketing,Job Board,9.2,Contratado,33
+81,Vendas,LinkedIn,8.8,Contratado,12
+82,Financeiro,Site da Empresa,8.4,Reprovado,40
+83,Financeiro,LinkedIn,9.9,Reprovado,28
+84,RH,LinkedIn,9.9,Contratado,24
+85,TI,Indicação,5.9,Contratado,34
+86,Vendas,LinkedIn,8.7,Contratado,12
+87,Marketing,Site da Empresa,5.2,Contratado,45
+88,RH,LinkedIn,9.2,Reprovado,7
+89,Financeiro,Site da Empresa,8.0,Contratado,9
+90,Marketing,Site da Empresa,6.7,Reprovado,43
+91,TI,Job Board,8.6,Contratado,25
+92,Financeiro,Site da Empresa,5.7,Contratado,14
+93,RH,Job Board,7.3,Contratado,37
+94,TI,LinkedIn,8.9,Reprovado,30
+95,RH,Site da Empresa,7.0,Contratado,29
+96,Financeiro,Site da Empresa,7.9,Contratado,19
+97,RH,LinkedIn,6.1,Contratado,38
+98,Vendas,LinkedIn,7.6,Reprovado,11
+99,RH,Site da Empresa,6.9,Reprovado,33
+100,TI,Site da Empresa,6.7,Contratado,23
